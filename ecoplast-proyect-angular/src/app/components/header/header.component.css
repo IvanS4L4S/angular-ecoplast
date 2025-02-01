@@ -1,0 +1,17 @@
+a{
+    color: white;
+    
+   
+}
+a:hover {
+    color: rgb(79, 196, 108);
+  }
+nav{
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    
+    opacity: 0.8;
+}
